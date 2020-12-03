@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
 *{
   box-sizing: border-box;
-  font-family: sans-serif;
+  font-family: Sans-Serif;
 }
 body {
 background-color: #e1cafc;
 margin: 0 15%;
-font-family: sans-serif;
+font-family: Sans-Serif;
 background-image: url("resumebg.jpg");
 background-repeat: no-repeat;
 background-position: center 100%;
@@ -14,7 +14,7 @@ background-attachment: fixed;
 }
 h1 {
 text-align: center;
-font-family: 'Im Fell English', sans-serif;
+font-family: 'Im Fell English', Sans-Serif;
 font-weight: normal;
 text-transform: uppercase;
 border-bottom: 1px solid #FFFFFF;
@@ -23,7 +23,7 @@ margin-top: 30px;
 h2 {
 color: #380d63;
 font-size: 1em;
-font-family: 'IM Fell English', sans-serif;
+font-family: 'IM Fell English', Sans-Serif;
 }
 a:hover{ color:#000000;}
 .nav

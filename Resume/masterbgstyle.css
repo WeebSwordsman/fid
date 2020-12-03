@@ -39,3 +39,21 @@ a:hover{ color:#000000;}
  ul li:before{
    content:"\00BB\2665"
  }
+ .container {
+ 	border: 1px solid #666666;
+ 	width: 350px;
+ 	height: 150px;
+ }
+ .container span {
+ 	display: inline-block;
+ 	border: 1px solid #666666;
+ 	width: 40%;
+ }
+ .small-box {
+ 	height: 30%;
+ 	background: #1c87c9;
+ }
+ .big-box {
+ 	height: 50%;
+ 	background: #8ebf42;
+ }

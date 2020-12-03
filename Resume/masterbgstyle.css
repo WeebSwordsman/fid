@@ -39,3 +39,6 @@ a:hover{ color:#000000;}
  ul li:before{
    content:"\00BB\2665"
  }
+ div.a {
+   text-align: center;
+ }

@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English&display=swap');
+*{
+  box-sizing: border-box;
+  font-family: 'IM Fell English', sans-serif;
+}
+body {
+background-color: #e1cafc;
+margin: 0 15%;
+font-family: sans-serif;
+background-repeat: no-repeat;
+background-position: center 100%;
+background-attachment: fixed;
+}
+h1 {
+text-align: center;
+font-family: 'Im Fell English', sans-serif;
+font-weight: normal;
+text-transform: uppercase;
+border-bottom: 1px solid #FFFFFF;
+margin-top: 30px;
+}
+h2 {
+color: #d1633c;
+font-size: 1em;
+font-family: 'IM Fell English', sans-serif;
+}
+a:hover{ color:#000000;}
+.nav
+{overflow: hidden;background-color: #e1cafc;}
+.nav a
+{float: left; color: #000000;text-align: center; padding: 14px 16px; text-decoration: none;font-size: 17px;}
+.nav a:hover
+  {background-color: #f569de; color: black;}
+.nav .active
+ {background-color: #42b3f5; color:#00000;}
+ footer {border-top:1px solid #FFFFFF; text-align:center; padding-top: 1em; }
+ footer img {width:40px; height:40px; margin-left:.5em; margin-right: .5em;}

@@ -7,6 +7,7 @@ body {
 background-color: #e1cafc;
 margin: 0 15%;
 font-family: sans-serif;
+background-image:url(images/resumebg.jpg);
 background-repeat: no-repeat;
 background-position: center 100%;
 background-attachment: fixed;
@@ -20,7 +21,7 @@ border-bottom: 1px solid #FFFFFF;
 margin-top: 30px;
 }
 h2 {
-color: #d1633c;
+color: #380d63;
 font-size: 1em;
 font-family: 'IM Fell English', sans-serif;
 }

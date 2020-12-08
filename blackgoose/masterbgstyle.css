@@ -4,7 +4,7 @@
   font-family: 'Arcitects Daughter', sans-serif;
 }
 body {
-background-color: #2d5f6b;
+background-color: #68d9f4;
 margin: 0 15%;
 font-family: sans-serif;
 background-repeat: no-repeat;
@@ -21,12 +21,12 @@ margin-top: 30px;
 }
 h2 {
 color: #d1633c;
-font-size: 1em;
+font-size: 2em;
 font-family: 'Architects Daughter', sans-serif;
 }
 a:hover{ color:#000000;}
 .topnav
-{overflow: hidden;background-color: #2d5f6b;}
+{overflow: hidden;background-color: #68d9f4;}
 .topnav a
 {float: left; color: #000000;text-align: center; padding: 14px 16px; text-decoration: none;font-size: 17px;}
 .topnav a:hover
